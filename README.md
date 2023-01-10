@@ -48,7 +48,7 @@ app.display()
 
 ## GUI Result:
 
-![](GUI.png)
+![](./GUI.png)
 
 ## Online Resources:
 * [Random](https://docs.python.org/3/library/random.html#module-random)
