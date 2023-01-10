@@ -48,7 +48,7 @@ app.display()
 
 ## GUI Result:
 
-![GUI](./GUI.png)
+![Spy_Name](./Spy_Name.png)
 
 ## Online Resources:
 * [Random](https://docs.python.org/3/library/random.html#module-random)
